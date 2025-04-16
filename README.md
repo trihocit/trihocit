@@ -1,63 +1,81 @@
-# <div align="center">👋 Hi there, I'm Luong Duc Tri!</div>
+<h1 align="center">Hi there, I'm Luong Duc Tri! 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E77F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+C%23+%7C+ASP.NET;Clean+Code+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <p>🎯 I'm a passionate <b>Backend Developer</b> who enjoys building efficient, scalable, and maintainable web applications. I'm always eager to learn new technologies and solve real-world problems through clean and reliable code.</p>
-</div>
+<p align="center">
+  🎯 Passionate <strong>Backend Developer</strong> | 💻 Java & C# Enthusiast | 🌱 Always Learning & Building
+</p>
 
 ---
 
-## 🔧 Skills & Technologies
+## 🙋‍♂️ About Me
 
-<div align="center">
-  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-  
-</div>
+- 👨‍💻 I'm a backend developer who loves building robust and scalable web applications  
+- 📚 Currently learning more about **cloud deployment** and **microservices architecture**  
+- 🚀 I enjoy solving real-world problems with clean and maintainable code  
+- 🎯 My goal is to become a full-stack developer with strong backend expertise  
+- 🌐 I also have experience working with both frontend and backend technologies  
 
-<details>
-  <summary><b>🔍 Detailed Skills</b></summary>
-  <br>
-  
-  ### 💻 Programming Languages
-  - **Java** - Advanced
-  - **C#** - Intermediate to Advanced
-  
-  ### ☕ Backend Frameworks
-  - **Spring Boot** - RESTful APIs, Security, Data JPA
-  - **ASP.NET Core** - MVC, Web API
-  
-  ### 🛠️ Databases
-  - **MySQL** - Query optimization, Indexing
-  - **SQL Server** - Stored procedures, Functions
-  
-  ### 🌐 Frontend Support
-  - **Thymeleaf** - Server-side Java template engine
-  - **Bootstrap** - Responsive layout design
-  - **HTML/CSS** - Semantic markup, Responsive design
-  - **JavaScript** - DOM manipulation, Form validation
-  
-  ### 🔐 API Development
-  - **RESTful APIs** - Design, Implementation, Authentication
-  
-  ### 📦 Development Tools
-  - **Git** - Version control, Branching strategies
-  - **Postman** - API testing
-  - **IntelliJ IDEA & V
+---
+
+## 🛠️ Skills & Technologies
+
+### 🚀 Languages & Frameworks
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌐 Frontend
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 📚 [WebThiOnline – Online Quiz System](https://github.com/trihocit/WebThiOnline)
+An online quiz system for managing users, questions, subjects, levels, and exam results.
+
+- 🔧 **Backend:** Java Spring Boot  
+- 💾 **Database:** MySQL  
+- 🎨 **Frontend:** Thymeleaf, Bootstrap  
+- ✅ **Key Features:**
+  - User management (Admin, Student)
+  - Question & exam management
+  - Auto-grading and result review
+  - Secure login & role-based access
+
+---
+
+### 📖 [DACS1 – Online Comic Reading Website](https://github.com/HieuNghia6572/DACS1)
+A comic reading platform that lets users explore and read comics by category and chapter.
+
+- 🔧 **Backend:** Java Spring Boot  
+- 💾 **Database:** MySQL  
+- 🎨 **Frontend:** Thymeleaf, Bootstrap  
+- ✅ **Key Features:**
+  - Comic browsing and reading by chapters
+  - Genre-based filtering and search
+  - Admin panel for managing stories, genres, and chapters
+  - Responsive and clean UI
+
+---
+
+## 📫 Contact Me
+
+- 📧 **Email:** [luongductri203@gmail.com](mailto:luongductri203@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/luongductridev](https://www.linkedin.com/in/luongductridev)  
+- 💻 **GitHub:** [github.com/trihocit](https://github.com/trihocit)
+
+---
+
+<p align="center">
+  <em>"Coding is not just a job, it's a passion!" 💙</em>
+</p>
